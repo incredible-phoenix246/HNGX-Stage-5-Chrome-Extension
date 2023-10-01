@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  .title{
+    @apply text-center text-title-color text-[2.5rem] font-bold font-sora
+  }
+  .social-button{
+    @apply flex items-center gap-4  text-title-color font-medium font-inter tracking-[0.16px] p-3 w-full justify-center border border-title-color rounded-xl
+  }
+  .label-style{
+    @apply block mb-2 text-title-color text-sm font-medium
+  }
+  .form-input{
+    @apply rounded-xl w-full border border-primary-100 bg-transparent p-4 text-[#626262] placeholder-[#626262] font-medium
+  }
+  .video{
+    @apply px-3 lg:px-4 py-3 lg:py-4  rounded-xl sm:rounded-3xl overflow-hidden border border-primary-100/60 bg-[#FBFBFB]/50
+  }
+  .btn{
+    @apply py-3 px-8 bg-primary-main rounded-lg text-base font-medium text-[#F9F9FF]
+  }
+  .error{
+    @apply border border-red-500
+  }
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+
+  background-color: #FFF;
+}
