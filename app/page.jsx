@@ -18,7 +18,7 @@ function Page() {
                             <h1 className='font-sora text-[2.5rem] lg:text-6xl font-bold leading-none mb-6 text-title-color'>Show Them Don’t Just Tell</h1>
                             <p className='font-xl leading-[140%] text-black/75 font-inter mb-8 lg:mb-12 pr-4'>Help your friends and loved ones by creating and sending videos on how to get things done on a website.</p>
                             <Link
-                                href="https://drive.google.com/file/d/1VKWuzHOyJ0VDFxX1_3KdlSrrh27MGZck/view?usp=drive_link" 
+                                href="https://drive.google.com/file/d/1Y-HsQ2kydMVYzpnypT_XipN57LVY6Eda/view?usp=sharing" 
                                 className='text-white font-semibold md:font-lg flex items-center gap-3 py-3 lg:py-5 px-4 lg:px-6 bg-primary-main rounded-lg mx-auto md:mx-0 w-fit'
                             >
                                 Install HelpMeOut
