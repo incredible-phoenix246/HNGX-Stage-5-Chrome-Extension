@@ -4,7 +4,7 @@
 
 This project is is still in it tesing stage,
 
-I couldn't Make the extension using i resorted to using normal html, css and Javascript.
+I couldn't Make the extension using React, So I resorted to using normal html, css and Javascript.
 Also note that all the ui were made using react based on next.js 
 
 To get the extension
